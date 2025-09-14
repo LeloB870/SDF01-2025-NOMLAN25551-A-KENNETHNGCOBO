@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Nompumelelo Beryl Langa
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -10,8 +10,8 @@
 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- 🤖 I love problem-solving and working on creative projects as well deploying new projects.
+- 🔥 Looking forward to building my first real-world application and creating more meaningful projects that can better the world.
 
 ---
 
@@ -36,6 +36,8 @@
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
+- Leadership Skills 
+- Google Suite
 
 ---
 
@@ -66,18 +68,19 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/LeloB870)    
+📧 Email: [nlanga322@gmail.com](mailto:nlanga322@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
 💡 I love learning new things and can't wait to build my first website!
+I hope that our group will survive and finish this race
+May the code and the debugger be with us all.
 
 ---
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeloB870&show_icons=true&theme=radical)
